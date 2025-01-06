@@ -32,6 +32,6 @@
 <img src="/public/img/erd.png">
 
 # Link Youtube : 
-
+https://youtu.be/ecLa8VNTyM0?si=Z_feFZnL_6-6s_0V
 </ul>
 
